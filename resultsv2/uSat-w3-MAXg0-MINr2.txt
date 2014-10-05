@@ -1,0 +1,70 @@
+Current: >LbrM01_V2_October [~/lbraziliensis/all/chr1/LbrM01_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM10_V2_October [~/lbraziliensis/all/chr10/LbrM10_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM11_V2_October [~/lbraziliensis/all/chr11/LbrM11_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM12_V2_October [~/lbraziliensis/all/chr12/LbrM12_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM13_V2_October [~/lbraziliensis/all/chr13/LbrM13_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM14_V2_October [~/lbraziliensis/all/chr14/LbrM14_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM15_V2_October [~/lbraziliensis/all/chr15/LbrM15_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM16_V2_October [~/lbraziliensis/all/chr16/LbrM16_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM17_V2_October [~/lbraziliensis/all/chr17/LbrM17_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM18_V2_October [~/lbraziliensis/all/chr18/LbrM18_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM19_V2_October [~/lbraziliensis/all/chr19/LbrM19_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM02_V2_October [~/lbraziliensis/all/chr2/LbrM02_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM20_V2_October [~/lbraziliensis/all/chr20/LbrM20_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM21_V2_October [~/lbraziliensis/all/chr21/LbrM21_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM22_V2_October [~/lbraziliensis/all/chr22/LbrM22_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM23_V2_October [~/lbraziliensis/all/chr23/LbrM23_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM24_V2_October [~/lbraziliensis/all/chr24/LbrM24_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM25_V2_October [~/lbraziliensis/all/chr25/LbrM25_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM26_V2_October [~/lbraziliensis/all/chr26/LbrM26_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM27_V2_October [~/lbraziliensis/all/chr27/LbrM27_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM28_V2_October [~/lbraziliensis/all/chr28/LbrM28_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM29_V2_October [~/lbraziliensis/all/chr29/LbrM29_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM03_V2_October [~/lbraziliensis/all/chr3/LbrM03_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM30_V2_October [~/lbraziliensis/all/chr30/LbrM30_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM31_V2_October [~/lbraziliensis/all/chr31/LbrM31_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM32_V2_October [~/lbraziliensis/all/chr32/LbrM32_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM33_V2_October [~/lbraziliensis/all/chr33/LbrM33_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM34_V2_October [~/lbraziliensis/all/chr34/LbrM34_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM35_V2_October [~/lbraziliensis/all/chr35/LbrM35_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM04_V2_October [~/lbraziliensis/all/chr4/LbrM04_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM05_V2_October [~/lbraziliensis/all/chr5/LbrM05_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM06_V2_October [~/lbraziliensis/all/chr6/LbrM06_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM07_V2_October [~/lbraziliensis/all/chr7/LbrM07_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM08_V2_October [~/lbraziliensis/all/chr8/LbrM08_V2_October.embl] This data was sequenced at the Sanger Institute
+
+Current: >LbrM09_V2_October [~/lbraziliensis/all/chr9/LbrM09_V2_October.embl] This data was sequenced at the Sanger Institute
+
